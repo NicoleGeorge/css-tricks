@@ -167,6 +167,9 @@ header {
   position: relative;
   background-color: #f3b70f;
   background-image: url('../img/hand.jpeg'), url('../img/colors.jpg');
+  background-size: 430px, 470px;
+  background-repeat: no-repeat;
+  background-position: left top, right;
 }
 
 header span {
