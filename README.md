@@ -33,3 +33,7 @@ Creative Code snippets: Excercises in cool CSS tricks
 6. Filter Blur
 - filter property and blur effect applied to the plant images
 - value inside the function determines the amount of distortion
+
+7. Character unit (ch)
+- represents the width of the ch '0' in current font
+- adjusts the width of text based on character units
