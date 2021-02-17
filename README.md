@@ -1,2 +1,4 @@
-# css-tricks-1
-Creative Code snippet: Parallax Header + Multiple Images
+# css-tricks
+Creative Code snippets: Excercise in CSS tricks
+
+1. Parallax Header using Multiple Images
