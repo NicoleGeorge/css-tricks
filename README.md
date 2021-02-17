@@ -11,3 +11,7 @@ Creative Code snippets: Excercises in cool CSS tricks
 3. Font Shorthand
 - cleaner code, more effective and shorter
 - order for font shorhand: font-style font-variant font-weight font-size/line-height font-family
+
+4. Text Stroke
+- creates an outline of the text, and fill color
+- CSS properties applied: -webkit-text-fill-stroke + -webkit-text-stroke
