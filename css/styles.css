@@ -234,18 +234,16 @@ footer h3 {
 .divider h2 {
   margin-top: 50px;
   text-align: center;
-  font-size: 100px;
   padding-bottom: 30px;
   text-transform: uppercase;
-  font-weight: 900;
-  line-height: 0%;
   animation: heading 2s 1;
   animation-fill-mode: forwards;
   height: 380px;
-  font-family: 'Darker Grotesque', sans-serif;
   z-index: 1;
   position: relative;
   overflow: hidden;
+  font: normal normal 900 100px/0% 'Darker Grotesque', sans-serif;
+  /* order for font shorhand: font-style font-variant font-weight font-size/line-height font-family  */
 }
 
 @keyframes heading {
