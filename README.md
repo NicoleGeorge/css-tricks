@@ -31,9 +31,15 @@ Creative Code snippets: Excercises in cool CSS tricks
 - box-shadow will drop the shadow around the entire image frame
 
 6. Filter Blur
+
 - filter property and blur effect applied to the plant images
 - value inside the function determines the amount of distortion
 
 7. Character unit (ch)
+
 - represents the width of the ch '0' in current font
 - adjusts the width of text based on character units
+
+8. First Letter
+- inspired by print elements (drop-case)
+- using pseudo-classes to isolate :first-letter of the word 

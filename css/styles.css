@@ -153,6 +153,10 @@ p.shortened {
 /*first-letter*/
 
 p.intro:first-letter {
+  float: left;
+  text-transform: uppercase;
+  font: normal normal normal 100px/0.5 'Karla', sans-serif;
+  margin: 15px 20px 10px 0;
 }
 
 /*multiple backgrounds + viewport height*/
