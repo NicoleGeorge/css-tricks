@@ -95,6 +95,7 @@ header h1 {
   left: -80px;
   width: 500px;
   top: 260px;
+  filter: blur(5px);
 }
 
 .plant-background.bottom {

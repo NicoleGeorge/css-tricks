@@ -29,3 +29,7 @@ Creative Code snippets: Excercises in cool CSS tricks
 - a CSS function that applies a drop shadow effect to an image element
 - works with transparent images the best
 - box-shadow will drop the shadow around the entire image frame
+
+6. Filter Blur
+- filter property and blur effect applied to the plant images
+- value inside the function determines the amount of distortion
