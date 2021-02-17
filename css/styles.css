@@ -155,7 +155,7 @@ p.intro:first-letter {
 /*multiple backgrounds + viewport height*/
 
 header {
-  height: 800px;
+  height: 80vh;
   text-align: center;
   position: relative;
   margin-bottom: 50px;
@@ -300,6 +300,7 @@ ol.numbered-list > li:before {
 /*object fit class for the images*/
 
 .object-fit {
+  height: 100vh;
 }
 
 /*piechart graph*/
